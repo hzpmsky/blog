@@ -7,4 +7,6 @@
 [1.立即执行函数IIFE](https://github.com/hzpmsky/blog/issues/1)  
 ### （二）.前端工具的使用 
 
-[1.git工具的使用](https://github.com/hzpmsky/blog/issues/2)
+[1.git工具的使用](https://github.com/hzpmsky/blog/issues/2)  
+
+[2.chrome浏览器中vue-devtools的安装](https://github.com/hzpmsky/blog/issues/3)
